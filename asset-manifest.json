@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/pulkitjndl.github.io/space/static/css/main.a34049e8.chunk.css",
+    "main.js": "/pulkitjndl.github.io/space/static/js/main.6d1e5ec6.chunk.js",
+    "main.js.map": "/pulkitjndl.github.io/space/static/js/main.6d1e5ec6.chunk.js.map",
+    "runtime-main.js": "/pulkitjndl.github.io/space/static/js/runtime-main.87cf2dfb.js",
+    "runtime-main.js.map": "/pulkitjndl.github.io/space/static/js/runtime-main.87cf2dfb.js.map",
+    "static/js/2.c0c5d419.chunk.js": "/pulkitjndl.github.io/space/static/js/2.c0c5d419.chunk.js",
+    "static/js/2.c0c5d419.chunk.js.map": "/pulkitjndl.github.io/space/static/js/2.c0c5d419.chunk.js.map",
+    "static/js/3.c98f016f.chunk.js": "/pulkitjndl.github.io/space/static/js/3.c98f016f.chunk.js",
+    "static/js/3.c98f016f.chunk.js.map": "/pulkitjndl.github.io/space/static/js/3.c98f016f.chunk.js.map",
+    "static/js/4.dc9b6f8f.chunk.js": "/pulkitjndl.github.io/space/static/js/4.dc9b6f8f.chunk.js",
+    "static/js/4.dc9b6f8f.chunk.js.map": "/pulkitjndl.github.io/space/static/js/4.dc9b6f8f.chunk.js.map",
+    "static/js/5.40436b4e.chunk.js": "/pulkitjndl.github.io/space/static/js/5.40436b4e.chunk.js",
+    "static/js/5.40436b4e.chunk.js.map": "/pulkitjndl.github.io/space/static/js/5.40436b4e.chunk.js.map",
+    "static/js/6.bb8452b7.chunk.js": "/pulkitjndl.github.io/space/static/js/6.bb8452b7.chunk.js",
+    "static/js/6.bb8452b7.chunk.js.map": "/pulkitjndl.github.io/space/static/js/6.bb8452b7.chunk.js.map",
+    "static/js/7.ac78ad84.chunk.js": "/pulkitjndl.github.io/space/static/js/7.ac78ad84.chunk.js",
+    "static/js/7.ac78ad84.chunk.js.map": "/pulkitjndl.github.io/space/static/js/7.ac78ad84.chunk.js.map",
+    "static/js/8.bde9eb92.chunk.js": "/pulkitjndl.github.io/space/static/js/8.bde9eb92.chunk.js",
+    "static/js/8.bde9eb92.chunk.js.map": "/pulkitjndl.github.io/space/static/js/8.bde9eb92.chunk.js.map",
+    "index.html": "/pulkitjndl.github.io/space/index.html",
+    "static/css/main.a34049e8.chunk.css.map": "/pulkitjndl.github.io/space/static/css/main.a34049e8.chunk.css.map",
+    "static/js/2.c0c5d419.chunk.js.LICENSE.txt": "/pulkitjndl.github.io/space/static/js/2.c0c5d419.chunk.js.LICENSE.txt",
+    "static/js/3.c98f016f.chunk.js.LICENSE.txt": "/pulkitjndl.github.io/space/static/js/3.c98f016f.chunk.js.LICENSE.txt",
+    "static/media/space.png": "/pulkitjndl.github.io/space/static/media/space.6274f113.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87cf2dfb.js",
+    "static/js/2.c0c5d419.chunk.js",
+    "static/css/main.a34049e8.chunk.css",
+    "static/js/main.6d1e5ec6.chunk.js"
+  ]
+}
