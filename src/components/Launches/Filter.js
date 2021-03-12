@@ -4,7 +4,6 @@ import RocketsContext from "../../contexts/RocketsContext";
 
 const Filter = ({
   filterChangeHandler,
-  rocketName,
   launchYear,
   launchSuccess,
 }) => {
