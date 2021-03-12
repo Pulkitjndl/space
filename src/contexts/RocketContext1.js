@@ -32,7 +32,6 @@ class RocketsContextProvider extends Component{
           getRocket: getRocket,
       }}
           >
-        {props.children}
     </RocketsContext.Provider>
 
          </div>
