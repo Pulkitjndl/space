@@ -1,13 +1,13 @@
 import { useContext } from "react";
 
-import RocketsContext from "../../contexts/RocketsContext";
+import RocketsContext1 from "../../contexts/RocketsContext1";
 
 const Filter = ({
   filterChangeHandler,
   launchYear,
   launchSuccess,
 }) => {
-  const { rockets } = useContext(RocketsContext);
+  const { rockets } = useContext(RocketsContext1);
 
   const currentYear = new Date().getFullYear();
 
